@@ -12,7 +12,7 @@ export function StatsSection() {
           <div className="lg:col-span-8">
             <div className="flex items-center gap-3 mb-6">
               <div className="w-5 h-px bg-[#8B1A1A]" />
-              <span className="text-[#8B1A1A] tracking-[0.18em] uppercase text-[10.5px]" style={{ fontFamily: "'Noto Sans SC', sans-serif" }}>Impact</span>
+              <span className="text-[#8B1A1A] tracking-[0.18em] uppercase text-[10.5px]" style={{ fontFamily: "'Noto Sans SC', sans-serif" }}>Core Capabilities</span>
             </div>
             <h2 className="mobile-wrap text-[#2A1714]" style={{ fontFamily: "'Noto Serif SC', serif", fontSize: "var(--type-section-title)", lineHeight: 1.25, whiteSpace: "nowrap" }}>
               让智慧课程建设更快、更准、更可持续
